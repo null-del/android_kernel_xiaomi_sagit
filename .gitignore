@@ -92,6 +92,17 @@ GRTAGS
 GSYMS
 GTAGS
 
+# out-kernel-files
+out
+
+# kernel-scripts
+phone_build.sh
+server_build.sh
+
+# kernel-tools
+toolchain
+paper_kernel_tools
+
 # id-utils files
 ID
 
